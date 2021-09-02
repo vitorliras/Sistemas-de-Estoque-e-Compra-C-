@@ -1,0 +1,16 @@
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.exe
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.deps.json
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.runtimeconfig.json
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.runtimeconfig.dev.json
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.dll
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\ref\LojaEletronicos.dll
+C:\Users\Vitor\git\LojaEletronicos\bin\Debug\net5.0\LojaEletronicos.pdb
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.csproj.AssemblyReference.cache
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.AssemblyInfoInputs.cache
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.AssemblyInfo.cs
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.dll
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\ref\LojaEletronicos.dll
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.pdb
+C:\Users\Vitor\git\LojaEletronicos\obj\Debug\net5.0\LojaEletronicos.genruntimeconfig.cache
